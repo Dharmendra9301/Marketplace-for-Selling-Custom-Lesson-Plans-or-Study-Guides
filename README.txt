@@ -7,6 +7,8 @@ This project is a blockchain-based marketplace where educators can sell custom l
 ## Contract Address
 **Contract Address:**0xC19EdCf65A386407AE8A6cc719c2a299DF6515Ac
 
+
+
 ## Project Vision
 Our vision is to empower educators and learners by creating a seamless platform for sharing knowledge. This decentralized marketplace fosters collaboration, enables creators to monetize their expertise, and ensures accessibility to diverse educational content worldwide.
 
